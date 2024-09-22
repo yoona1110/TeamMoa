@@ -18,6 +18,10 @@ export const HomeBannerHeader = styled.header`
   padding-right: 14px;
 
   & > button {
-    margin-left: 123px;
+    margin-right: 1%;
+  }
+
+  & > img {
+    margin-right: 5rem;
   }
 `;

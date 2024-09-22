@@ -20,7 +20,7 @@ const Home = () => {
 
   return (
     <HomeMain
-      BoardData={data && data}
+      BoardData={data && null}
       isActive={isActive}
       setIsActive={setIsActive}
     />
