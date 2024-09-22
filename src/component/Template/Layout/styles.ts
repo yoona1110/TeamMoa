@@ -6,7 +6,7 @@ export const DefaultLayout = styled.div`
 
   & > button {
     position: fixed;
-    left: 19.063rem;
+    right: 1.5rem;
     bottom: 6.438rem;
     width: max-content;
     height: max-content;
