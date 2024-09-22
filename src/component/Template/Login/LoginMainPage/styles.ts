@@ -35,7 +35,6 @@ export const KaKaoLogin = styled.img`
   width: 280px;
   height: 40px;
   @media screen and (min-width: 390px) {
-    /* margin-top: 1rem; */
     margin-bottom: 5rem;
   }
 `;
@@ -54,7 +53,6 @@ export const TeamMoaDesktopLogo = styled.img`
   width: 250.96px;
   height: 250.96px;
   margin-top: 10vh;
-  margin-right: 20vw;
 
   @media screen and (max-width: 390px) {
     display: none;

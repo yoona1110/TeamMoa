@@ -1,5 +1,4 @@
 import LoginTemplate from "@templates/Login/LoginMainPage";
-import { Link } from "react-router-dom";
 
 const REST_API_KEY = process.env.REACT_APP_REST_API_KEY;
 const REDIRECT_URI = process.env.REACT_APP_REDIRECT_URI;
